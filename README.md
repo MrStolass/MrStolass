@@ -33,10 +33,11 @@
 
 ### 📊 Estatísticas
 
+
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MrStolass&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MrStolass&show_icons=true&theme=tokyonight&count_private=true" />
   <br><br>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrStolass&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MrStolass&layout=compact&langs_count=7&theme=tokyonight" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrStolass&theme=tokyonight" />
 </div>
