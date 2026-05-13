@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou [Seu Nome] 👋
 
-<!--
-**MrStolass/MrStolass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ Cybersecurity Student | Future SOC Analyst
+Atualmente focado em defesa de perímetros, monitoramento de redes e automação Linux.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ No meu terminal agora:
+- **Infra:** Configurando labs complexos de Cisco e SIEM.
+- **Segurança:** Analisando detecção de ataques Brute Force SSH.
+- **Dev:** Aperfeiçoando sistemas legados (Hack/PHP) e scripts em Python.
+
+### 📊 Estatísticas
+![Meus Status do GitHub](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)
+
+### 🌍 Idiomas em Estudo
+- 🇧🇷 Português (Nativo)
+- 🈯 Escrita Asiática (Prática Diária: Mandarim, Japonês e Coreano)
