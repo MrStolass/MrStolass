@@ -32,7 +32,7 @@
 ### 📊 Estatísticas
 
 
-<div align="center">
+<div align="right">
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MrStolass&show_icons=true&theme=tokyonight&count_private=true" />
   
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MrStolass&layout=compact&langs_count=7&theme=tokyonight" />
