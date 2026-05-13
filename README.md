@@ -1,4 +1,4 @@
-# 0xMrStolasa | Cybersecurity & Infrastructure 🛡️
+# 0xMrStolass | Cybersecurity & Infrastructure 🛡️
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF3eXp4eXp4eXp4eXp4eXp4eXp4eXp4eXp4eXp4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/VHHvSodL0wB6vN0WfW/giphy.gif" width="250" />
@@ -32,26 +32,26 @@
 ### 📊 Estatísticas (Estilo Tokyo Night)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrStolasa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrStolass&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrStolasa&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrStolass&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrStolasa&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrStolass&theme=tokyonight" />
 </div>
 
 ---
 
 <div align="center">
   <p><b>Visualizações do Perfil:</b></p>
-  <img src="https://komarev.com/ghpvc/?username=MrStolasa&label=ACCESS_GRANTED&color=39ff14&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=MrStolass&label=ACCESS_GRANTED&color=39ff14&style=flat-square" />
 </div>
 
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/MrStolasa">
+  <a href="https://www.linkedin.com/in/MrStolass">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
