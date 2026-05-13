@@ -31,11 +31,9 @@
 
 ### 📊 Estatísticas
 <div align="left">
-  <img height="300em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MrStolass&show_icons=true&theme=tokyonight&count_private=true" />
-  
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MrStolass&layout=compact&langs_count=7&theme=tokyonight" />
-  
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=MrStolass&theme=tokyonight" />
+  <img height="310em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MrStolass&show_icons=true&theme=tokyonight&count_private=true" />
 </div>
 
 ---
