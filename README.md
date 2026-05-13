@@ -7,9 +7,7 @@
   <p><i>"Diligence in the morning, security in the night."</i></p>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MrStolass&label=ACCESS_GRANTED&color=7aa2f7&style=flat-square" />
-</div>
+
 
 <br>
 
