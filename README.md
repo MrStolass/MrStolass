@@ -24,10 +24,11 @@
     <br>
     <div align="left">
       <ul>
-        <li>💻 <b>OS Principal:</b> Zorin OS (Stability & Security)</li>
-        <li>🛡️ <b>Foco:</b> SOC Operations, SIEM (Elastic Stack) & CCNA</li>
-        <li>🈯 <b>Idiomas:</b> Prática diária de Mandarim, Japonês e Coreano</li>
-        <li>⚙️ <b>Dev:</b> Automação Python/Shell & Legacy Systems (Hack)</li>
+        <li>💀 <b>Main OS:</b> Kali Linux (Pentesting & Security Auditing)</li>
+        <li>💻 <b>Daily Driver:</b> Zorin OS (Stability & Lab Management)</li>
+        <li>🛡️ <b>Foco:</b> Blue Team (SIEM/SOC) & Red Team (Offensive Operations)</li>
+        <li>🈯 <b>Idiomas:</b> Escrita diária de Hanzi/Kanji (Mandarim e Japonês)</li>
+        <li>⚙️ <b>Dev:</b> Automação Python/Shell & Manutenção de Legacy Systems (Hack)</li>
       </ul>
     </div>
 </details>
