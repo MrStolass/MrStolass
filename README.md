@@ -1,7 +1,9 @@
 # 0xMrStolass | Cybersecurity & Infrastructure 🛡️
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF3eXp4eXp4eXp4eXp4eXp4eXp4eXp4eXp4eXp4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/VHHvSodL0wB6vN0WfW/giphy.gif" width="250" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="100" />
+  <br>
+  <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="250" />
   
   <p>🚀 <b>Estudante de Cibersegurança | Red & Blue Team Enthusiast</b></p>
   <p><i>"Diligence in the morning, security in the night."</i></p>
@@ -29,15 +31,13 @@
 
 ---
 
-### 📊 Estatísticas (Estilo Tokyo Night)
+### 📊 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrStolass&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrStolass&layout=compact&langs_count=7&theme=tokyonight" />
-</div>
-
-<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MrStolass&show_icons=true&theme=tokyonight&count_private=true" />
+  <br><br>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrStolass&layout=compact&langs_count=7&theme=tokyonight" />
+  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrStolass&theme=tokyonight" />
 </div>
 
