@@ -12,7 +12,7 @@
 <br>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=7aa2f7&width=900&size=22&center=true&lines=Cybersecurity+Professional;SOC+Analyst+ +Infrastructure;Lover+of+Asian+Scripts;Welcome+to+my+secure+perimeter;I+don't+work;+I+just+follow+the+voices..." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=7aa2f7&width=900&size=22&center=true&lines=Cybersecurity+Professional;SOC+Analyst+%7C+Infrastructure;Lover+of+Asian+Scripts;Welcome+to+my+secure+perimeter;I+don%27t+work%2C+I+just+follow+the+voices..." alt="Typing SVG"/>
 </div>
 
 <br>
