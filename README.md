@@ -1,51 +1,49 @@
-# MrStolass | Cybersecurity & Infrastructure 🛡️
+# Olá, eu sou o [Seu Nome] 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrStolass&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <!-- GIF Principal (Pode trocar o link por um de sua preferência) -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF3eXp4eXp4eXp4eXp4eXp4eXp4eXp4eXp4eXp4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/L1f3uOtS3eVCGvghHK/giphy.gif" width="200" />
+  
+  <p>🚀 Estudante de Cibersegurança | Entusiasta de Linux & SOC</p>
 </div>
 
 ---
 
-### 👤 Profile
-Estudante de Cibersegurança focado no equilíbrio entre a **ofensiva (Red Team)** e a **defesa (Blue Team)**. Atualmente transicionando de carreira e aplicando disciplina de alto desempenho para dominar a infraestrutura e segurança de dados.
-
-- 🛡️ **Blue Team:** Experiência prática com SIEM (Elastic Stack), monitoramento via Filebeat e hardening de sistemas.
-- ⚡ **Red Team:** Desenvolvimento de ferramentas de criptografia, automação de scripts e análise de ataques Brute Force.
-- 🈯 **Linguística:** Prática diária de escrita em **Mandarim**, **Inglês Técnico** voltado para documentação e redes.
+### 🖥️ Meu Setup & Foco
+- 💻 **OS Principal:** Zorin OS (Focado em estabilidade e segurança)
+- 🛡️ **Estudos:** Cybersecurity, Red Team e Administração de Redes (CCNA)
+- ✍️ **Idiomas:** Praticando escrita em Mandarim, Japonês e Coreano
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 📊 Estatísticas (Estilo Dark)
 
-**Languages & Scripting**
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Hack](https://img.shields.io/badge/Hack-003449?style=for-the-badge&logo=hack&logoColor=white)
+<div align="center">
+  <!-- Status do GitHub -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 
-**Infrastructure & Cyber**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cisco](https://img.shields.io/badge/Cisco-049BCE?style=for-the-badge&logo=cisco&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+  <!-- Linguagens mais usadas -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=tokyonight" />
+</div>
 
----
-
-### 🈯 Language & Cultural Study
-> *"Diligence in the morning, security in the night."*
-
-- **Mandarin (普通话):** Prática diária de 5-10 palavras (Hanzi). Foco em compreender a estrutura dos ideogramas e cultura asiática.
-- **English:** Nível técnico para leitura de RFCs, documentação Cisco e manuais de segurança.
+<div align="center">
+  <!-- Streak de Commits -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight" />
+</div>
 
 ---
 
-### 📊 Performance & Languages
+### 🛠️ Tecnologias & Ferramentas
+<div align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
+
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrStolasa&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Perfil%20Views&color=0e75b6&style=flat" />
 </p>
-
----
-
-### 📫 Contact & Networking:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MrStolasa)
