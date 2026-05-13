@@ -1,7 +1,7 @@
 # 0xMrStolass | Cybersecurity & Infrastructure 🛡️
 
 <div align="center">
-  <img src="gifc.gif" width="600" />
+  <img src="frame.gif" width="600" />
   
   <p>🚀 <b>Estudante de Cibersegurança | Red & Blue Team Enthusiast</b></p>
   <p><i>"Diligence in the morning, security in the night."</i></p>
