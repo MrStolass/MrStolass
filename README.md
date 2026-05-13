@@ -1,9 +1,7 @@
 # 0xMrStolass | Cybersecurity & Infrastructure 🛡️
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="100" />
-  <br>
-  <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="250" />
+  <img src="githubb.gif" width="300" />
   
   <p>🚀 <b>Estudante de Cibersegurança | Red & Blue Team Enthusiast</b></p>
   <p><i>"Diligence in the morning, security in the night."</i></p>
