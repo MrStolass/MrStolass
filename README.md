@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome] 👋
+
 
 ### 🛡️ Cybersecurity Student | Future SOC Analyst
 Atualmente focado em defesa de perímetros, monitoramento de redes e automação Linux.
