@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1a1b26&section=header&text=Mr.Stolass&fontSize=70&animation=fadeIn&fontColor=7aa2f7"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1a1b26&section=header&text=MrStolass&fontSize=70&animation=fadeIn&fontColor=7aa2f7"/>
 
 <div align="center">
   <img src="frame.gif" width="600" />
