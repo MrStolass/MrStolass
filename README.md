@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FMrStolass&s=21&c=7aa2f7&bg=00000000&no=2&ff=digi&tb=ACCESS_GRANTED%3A++&ta=" />
+  <img src="https://komarev.com/ghpvc/?username=MrStolass&label=ACCESS_GRANTED&color=7aa2f7&style=flat-square" />
 </div>
 
 <br>
