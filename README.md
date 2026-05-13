@@ -3,7 +3,7 @@
 <div align="center">
   <img src="frame.gif" width="600" />
   
-  <h3>🛡️ Cybersecurity Student | Red & Blue Team Enthusiast</h3>
+ <h3>🛡️ Cybersecurity Professional | Red & Blue Team Operations</h3>
   <p><i>"Diligence in the morning, security in the night."</i></p>
 </div>
 
